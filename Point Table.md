@@ -1,6 +1,6 @@
-BIOTECHNOLOGY                   : 69
-COMPUTER SCIENCE                : 69
-ELECTRONICS AND COMMUNICATION   : 69
-MECHANICAL                      : 69
-MECHANICAL AUTOMOBILE           : 69
-MECHANICAL PRODUCTION           : 69
+1. BIOTECHNOLOGY :                          00
+2. COMPUTER SCIENCE :                    00 
+3. ELECTRONICS AND COMM :          00 
+4. MECHANICAL :                                 00
+5. MECHANICAL AUTOMOBILE :        00
+6. MECHANICAL PRODUCTION :        00
