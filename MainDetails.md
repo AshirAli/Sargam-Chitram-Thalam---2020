@@ -1,0 +1,3 @@
+DAY1
+EVENTS : 50
+STAGES : 5
