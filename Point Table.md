@@ -1,5 +1,5 @@
-1. BIOTECHNOLOGY :                          26
-2. ELECTRONICS AND COMM B :       08
+1. BIOTECHNOLOGY :                          34
+2. ELECTRONICS AND COMM B :       15
 3. COMPUTER SCIENCE :                    06  
 4. ELECTRONICS AND COMM A :       00 
 5. MECHANICAL :                                 00
