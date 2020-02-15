@@ -1,7 +1,7 @@
-1. BIOTECHNOLOGY :                          143
-2. ELECTRONICS AND COMM B :       100
+1. BIOTECHNOLOGY :                          173
+2. ELECTRONICS AND COMM B :       137
 3. COMPUTER SCIENCE :                    86
-6. MECHANICAL :                                 51
-4. MECHANICAL AUTOMOBILE :        47
-5. MECHANICAL PRODUCTION :        25
-7. ELECTRONICS AND COMM A :       09
+4. MECHANICAL :                                 56
+5. MECHANICAL AUTOMOBILE :        52
+6. MECHANICAL PRODUCTION :        25
+7. ELECTRONICS AND COMM A :       19
